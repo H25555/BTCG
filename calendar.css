@@ -1,0 +1,28 @@
+caption{
+    color: blue;
+}
+.a1,.a2,.a3{
+color: white;
+}
+.a1{
+    background-color: red;
+}
+.a2{
+    background-color: yellow;
+}
+.a3{
+    background-color: blue;
+}
+#d1{
+    color: red;
+}
+#d2{
+    color: blue;
+}
+tbody td {
+    border-collapse: collapse;
+    border: 3px solid rgb(179, 168, 168);
+}
+table{
+    border-collapse: collapse;
+    text-align: center;}
