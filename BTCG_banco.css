@@ -1,0 +1,13 @@
+table{
+    height: 500px;
+    width: 500px;
+    background-color: darkorange;
+    border-collapse: collapse;
+    text-align: center;
+}
+.trang{
+    background-color: white;
+}
+.den{
+    background-color: black;
+}
